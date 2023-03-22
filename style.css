@@ -263,7 +263,6 @@ main {
 .commentary-card {
     border: .5px solid #00A8CC;
     padding: 10px;
-    border-right: 5px solid #00A8CC;
     border-radius: 3px;
     margin-bottom: 20px;
 }
@@ -272,7 +271,6 @@ h5 {
     padding: 5px 10px;
     border: .5px solid #00A8CC;
     display: inline-block;
-    border-right: 5px solid #00A8CC;
     border-radius: 3px;
 }
 
